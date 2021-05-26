@@ -1,0 +1,12 @@
+Header:
+	- Navbar
+
+Main Content: 
+	- About Me
+	- Skills
+	- Projects/Portfolio/References
+	- Contact
+
+Footer:
+	- Links
+	- Copyright

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
+        integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />
+
+    <!-- Update these with your own fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,900|Source+Sans+Pro:300,900&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+    <header>
+        <button class="nav-toggle" aria-label="toggle navigation">
+            <span class="hamburger"></span>
+        </button>
+        <nav class="nav">
+            <ul class="nav__list">
+                <li class="nav__item"><a href="#home" class="nav__link">Home</a></li>
+                <li class="nav__item"><a href="#skills" class="nav__link">Skills</a></li>
+                <li class="nav__item"><a href="#about" class="nav__link">About me</a></li>
+                <li class="nav__item"><a href="#work" class="nav__link">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Introduction -->
+    <section class="intro" id="home">
+        <h1 class="section__title section__title--intro">
+            Hi, I am <strong>Patrick Vincze</strong>
+        </h1>
+        <p class="section__subtitle section__subtitle--intro">Full-stack dev</p>
+        <img src="img/patrickvincze.png" alt="a picture of Patrick smiling" class="intro__img">
+    </section>
+
+
+    <!-- My services -->
+    <section class="my-services" id="skills">
+        <h2 class="section__title section__title--services">Skills</h2>
+        <div class="services">
+            <div class="service card">
+                <div class="box">
+                    <div class="content">
+                        <h3>Software Development</h3>
+                        <p> As a Computer Science Student, there were many Subjects and Projects to get in touch
+                            with Software Development. To see some of my Projects that i personally developed,
+                            go down below to the Projects Section.
+                        </p>
+                    </div>
+                </div>
+            </div> <!-- / service -->
+
+            <div class="service card">
+                <div class="box">
+                    <div class="content">
+                        <h3>Web Development + Design</h3>
+                        <p> Since I´ve worked in a Company that hosts an Online-platform,
+                            i discovered that Web Development can be really interesting.
+                            The Design and the Conception of the Frontend, as well as the Logic of the Backend
+                            were my main Tasks.
+                        </p>
+                    </div>
+                </div>
+            </div> <!-- / service -->
+
+            <div class="service card">
+                <div class="box">
+                    <div class="content">
+                        <h3>Machine Learning</h3>
+                        <p> For my Bachelor Thesis, i worked with some Machine Learning Algorithms
+                            to detect Differences in Audio data. Furthermore,
+                            i finished some Online Courses for Machine Learning and also for Deep Learning
+                            to strengthen my Knowledge.</p>
+                    </div>
+                </div>
+            </div> <!-- / service -->
+
+        </div> <!-- / services -->
+
+        <a href="#work" class="btn">My Projects</a>
+    </section>
+
+
+    <!-- About me -->
+    <section class="about-me" id="about">
+        <h2 class="section__title section__title--about">Who I am</h2>
+        <p class="section__subtitle section__subtitle--about">Developer based out of Stuttgart</p>
+
+        <div class="about-me__body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                ex ea commodo consequat.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                ex ea commodo consequat.</p>
+        </div>
+
+        <img src="img/coffee.jpg" alt="Picture of Coffee" class="about-me__img">
+    </section>
+
+    <!-- Languages and Tools -->
+    <section class="about-me" id="about">
+        <h2 class="section__title section__title--about">Languages and Tools</h2>
+
+        <div class="about-me__body">
+            <!-- Sterne-Bewertungssytem für benutze Programmiersprachen und Tools -->
+        </div>
+
+        <img src="img/computer.png" alt="Picture of a computer" class="about-me__img">
+
+    </section>
+
+    <!-- My Work -->
+    <section class="my-work" id="work">
+        <h2 class="section__title section__title--work">Projects</h2>
+        <p class="section__subtitle section__subtitle--work">A selection of my range of work</p>
+
+        <div class="portfolio">
+
+            <!-- Portfolio item 01 -->
+            <a href="portfolio-item.html?id=1" class="portfolio__item" id="1">
+                <img src="img/FitSched.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 02 -->
+            <a href="portfolio-item.html?id=2" class="portfolio__item" id="2">
+                <img src="img/MealPlan.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 03 -->
+            <a href="portfolio-item.html?id=3" class="portfolio__item" id="3">
+                <img src="img/Delltech.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 04 -->
+            <a href="portfolio-item.html?id=4" class="portfolio__item" id="4">
+                <img src="img/USQuiz.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 05 -->
+            <a href="portfolio-item.html?id=5" class="portfolio__item" id="5">
+                <img src="img/HSJ.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 06 -->
+            <a href="portfolio-item.html?id=6" class="portfolio__item" id="7">
+                <img src="img/Quiz.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 07 -->
+            <a href="portfolio-item.html?id=7" class="portfolio__item">
+                <img src="img/Pomodoro.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 08 -->
+            <a href="portfolio-item.html?id=8" class="portfolio__item" id="10">
+                <img src="img/Snake.png" alt="" class="portfolio__img">
+            </a>
+
+            <!-- Portfolio item 09 -->
+
+
+            <!-- Portfolio item 10-->
+
+        </div>
+    </section>
+
+
+    <!-- Footer -->
+    <footer class="footer">
+        <!-- replace with your own email address -->
+        <a href="mailto:info@patrickvincze.de" class="footer__link">info@patrickvincze.de</a>
+        <ul class="social-list">
+            <li class="social-list__item">
+                <a class="social-list__link"
+                    href="https://www.freecodecamp.org/fcc9ec7be72-6516-467b-850f-9ecaa26ba4ea">
+                    <i class="fab fa-free-code-camp"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__link" href="https://www.linkedin.com/in/patrick-vincze-b25260200/">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+            </li>
+            <li class="social-list__item">
+                <a class="social-list__link" href="https://github.com/vinczepa57">
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+        </ul>
+    </footer>
+
+
+    <script src="js/index.js"></script>
+
+</body>
+
+</html>

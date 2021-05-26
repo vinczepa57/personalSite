@@ -1,0 +1,62 @@
+[
+    {
+        "title": "<strong>FitSched</strong>",
+        "img": "img/FitSched.png",
+        "description": "This was one of my favourite Projects, because I could use it in my daily routine. It really helped me, to manage my workouts. Also, it fits perfect to use and learn the MERN-Stack. The Idea is quite simple. You can add Videos from Youtube, using the videoID to save all the Workouts you need. The Videos are saved as Cards. These Cards can then be added to a Schedule and you can create your own Workout-Plan. With a click on one of the saved cards, you can watch the video on the same page as a pop-up. As I mentioned, the Project was created with the MERN-Stack, which means MongoDB, Express, React and NodeJS.",
+        "git-link": "https://github.com/vinczepa57/FitSched"
+    },
+    {
+        "title": "<strong>MealPlaner</strong>",
+        "img": "img/MealPlan.png",
+        "description": "With this little Project, I wanted to use and learn something about APIs. So i chose the Foodista-API, which provides meals and recepes. With one click, you can create a Mealplan with the links to the recepes, for the whole Week. The Selection is completely random, but the API offers many possibilities to play around with the generated Mealplan. I used NodeJS and some simple HTML and CSS to realize this Project.",
+        "git-link": "https://github.com/vinczepa57/MealPlaner"
+    },
+    {
+        "title": "<strong>Delltech</strong>",
+        "img": "img/Delltech.png",
+        "description": "In this Project, I designed and developed a professional Website for a Company called DellTech. It´s written with HTML, CSS, JavaScript and Bootstrap and I wanted to let it look as simple as possible. I didn´t upload it on Github, but you can view the Site with the Button below.",
+        "git-link": "https://www.delltech-schiller.de/"
+    },
+    {
+        "title": "<strong>United States Quiz</strong>",
+        "img": "img/USQuiz.png",
+        "description": "In this Project, I created a Quiz to find out my Knowledge about the States in the USA. It has a Graphical Interface with a little Map of the US and you have to guess all the 50 States. If the Guess is right, the name of the State appears on the Map. I used Python with some of it´s libraries to achieve this Project.",
+        "git-link": "https://github.com/vinczepa57"
+    },
+    {
+        "title": "<strong>Hochschuljobbörse</strong>",
+        "img": "img/HSJ.png",
+        "description": "This was my Project during my internship at Hochschuljobbörse. I managed the Ticketsystem for the Company and created this Platform for the Customer support. Every Customer can contact the Support, or create a new Ticket with their Issue and it will directly pop up in the Ticketsystem of the Support. The Main Language for this Project was PHP.",
+        "git-link": "https://support.hochschuljobboerse.de/"
+    },
+    {
+        "title": "<strong>Quiz App</strong>",
+        "img": "img/Quiz.png",
+        "description": "In this Project, I used a Quiz-API to create a Quiz-Application. It has a simple GUI which displays the Questions and offers two Buttons to answer the Questions. The Score is tracked, too. It also reacts, if the Answer is wrong or right with a little colored highlighting. I used Python and Object oriented Programming in this Project.",
+        "git-link": "https://github.com/vinczepa57"
+    },
+    {
+        "title": "<strong>Pomodoro Timer</strong>",
+        "img": "img/Pomodoro.png",
+        "description": "This was a little Fun Project to get better in creating GUIs and Python programming. It´s a Pomodoro Timer to help studying for exams. It starts with 25 Minutes studying and after that, you get a five Minute Break. After three Turns, you get a 30 Minute Break.",
+        "git-link": "https://github.com/vinczepa57"
+    },
+    {
+        "title": "<strong>Snake Game</strong>",
+        "img": "img/Snake.png",
+        "description": "I used this Project to learn Object Oriented Programming in Python because Games like this are very good to show the Benefits and Usage of OOP. It´s an old Game, that I used to play on my Cell Phone long ago. The Highscore get´s tracked in a CSV file. Feel free to get the code from Github and have a little fun.",
+        "git-link": "https://github.com/vinczepa57"
+    },
+    {
+        "title": "",
+        "img": "",
+        "description": "",
+        "git-link": ""
+    },
+    {
+        "title": "",
+        "img": "",
+        "description": "",
+        "git-link": ""
+    }
+]
