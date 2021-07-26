@@ -21,7 +21,7 @@
         "title": "<strong>United States Quiz</strong>",
         "img": "img/USQuiz.png",
         "description": "In this Project, I created a Quiz to find out my Knowledge about the States in the USA. It has a Graphical Interface with a little Map of the US and you have to guess all the 50 States. If the Guess is right, the name of the State appears on the Map. I used Python with some of it´s libraries to achieve this Project.",
-        "git-link": "https://github.com/vinczepa57"
+        "git-link": "https://github.com/vinczepa57/US_StatesQuiz"
     },
     {
         "title": "<strong>Hochschuljobbörse</strong>",
@@ -33,19 +33,19 @@
         "title": "<strong>Quiz App</strong>",
         "img": "img/Quiz.png",
         "description": "In this Project, I used a Quiz-API to create a Quiz-Application. It has a simple GUI which displays the Questions and offers two Buttons to answer the Questions. The Score is tracked, too. It also reacts, if the Answer is wrong or right with a little colored highlighting. I used Python and Object oriented Programming in this Project.",
-        "git-link": "https://github.com/vinczepa57"
+        "git-link": "https://github.com/vinczepa57/QuizProject"
     },
     {
         "title": "<strong>Pomodoro Timer</strong>",
         "img": "img/Pomodoro.png",
         "description": "This was a little Fun Project to get better in creating GUIs and Python programming. It´s a Pomodoro Timer to help studying for exams. It starts with 25 Minutes studying and after that, you get a five Minute Break. After three Turns, you get a 30 Minute Break.",
-        "git-link": "https://github.com/vinczepa57"
+        "git-link": "https://github.com/vinczepa57/PomodoroTimer"
     },
     {
         "title": "<strong>Snake Game</strong>",
         "img": "img/Snake.png",
         "description": "I used this Project to learn Object Oriented Programming in Python because Games like this are very good to show the Benefits and Usage of OOP. It´s an old Game, that I used to play on my Cell Phone long ago. The Highscore get´s tracked in a CSV file. Feel free to get the code from Github and have a little fun.",
-        "git-link": "https://github.com/vinczepa57"
+        "git-link": "https://github.com/vinczepa57/Snake"
     },
     {
         "title": "",
